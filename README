@@ -1,0 +1,2 @@
+Steps to run :
+ run ./ubtorrent <torrent_file_name> <tcp Port>  on command line
